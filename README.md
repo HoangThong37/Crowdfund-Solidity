@@ -19,9 +19,9 @@ npm start
 
 ## Tham khảo tài liệu
 
-[Link: ](https://github.com/il3ven/Crowdfunding-App)
-[Link: ](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
+. <**https://github.com/il3ven/Crowdfunding-App**>
+. <**https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/**>
 
 # LIÊN HỆ MÌNH
 Qua Facebook :
-[Link: ](https://www.facebook.com/ThongBem00/)
+[Link: ] <**https://www.facebook.com/ThongBem00/**>
